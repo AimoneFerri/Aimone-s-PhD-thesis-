@@ -9,6 +9,6 @@
   - Bayesian multivariate joint models
 - Cross-sectional analysis with regression models
   - DAG for covariates selection
-- Power analysis for a Structural Equation Modelling (SEM) study on diet, mental health, and cognition study with covariates
+- Power analysis for a Structural Equation Modelling (SEM) study on diet, mental health, and cognition study with covariates (moved to Online_SEM_study, registered on OSF)
 
 
